@@ -1,0 +1,92 @@
+//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcode=("mu184rf")
+	//}
+//}
+//var ref=new data()
+	//console.log("Physics Marks:", ref.physics)
+	//ref.postcode="mu184rf"
+	//console.log("Postcode:", ref.postcode)
+	
+	
+//class data{
+	//constructor(){
+	//this.record={
+		//"regno":"256",
+		//"name":"Lexi",
+		//"address":"Swindon",
+	//	"emails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var ref=new data()
+//	console.log(ref.record["regno"])
+	//console.log(ref.record["name"])
+//	console.log(ref.record["address"])
+	//ref.record.emails.forEach(function(item){
+	//console.log(item)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.something={
+			//"A": function(){
+				//console.log("hello");
+			//	},
+		//	"B": function(){
+		//		console.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var ref= new data()
+	//ref.something["A"]()
+	//ref.something["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.something={
+		//	"Regno":"24",
+		//	"name":"shafeeq"
+		//}
+	//}
+	//adding(key1,value1){
+	//	this.something[key1]=value1
+	//}
+//}
+//var ref= new data()
+//	console.log(ref.something["Regno"])
+//	console.log(ref.something.Regno)
+//	console.log(ref.something.name)
+//	ref.something.Regno=56
+//	ref.adding("postcode","sn66bp")
+//	ref.adding("Regno","25")
+//		console.log(ref.something)
+
+
+class nationwide{
+	constructor(){
+	this.records={}
+	}
+	adding(key,f1){
+		if(this.records[key] == null){
+			this.records[key] = []
+	}
+	this.records[key].push(f1)
+	}
+}
+var ref= new nationwide()
+	ref.adding("training", function(){
+		console.log("hello")
+	})
+	ref.adding("training", function(){
+		console.log("cookie break")
+	})
+	ref.records.training.forEach(function(item){
+		item()
+	})

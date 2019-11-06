@@ -1,0 +1,2185 @@
+//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})//class data{
+	//constructor(){
+	//this.physics=24
+	//this.postcod?=("mu184rf")
+	//}
+//}
+//var r?f=n?w data()
+	//consol?.log("Physics Marks:", r?f.physics)
+	//r?f.postcod?="mu184rf"
+	//consol?.log("Postcod?:", r?f.postcod?)
+	
+	
+//class data{
+	//constructor(){
+	//this.r?cord={
+		//"r?gno":"256",
+		//"nam?":"L?xi",
+		//"addr?ss":"Swindon",
+	//	"?mails":["A1","A2","A3"]
+	//	}
+	//}
+//}
+//var r?f=n?w data()
+//	consol?.log(r?f.r?cord["r?gno"])
+	//consol?.log(r?f.r?cord["nam?"])
+//	consol?.log(r?f.r?cord["addr?ss"])
+	//r?f.r?cord.?mails.forEach(function(it?m){
+	//consol?.log(it?m)
+//	})
+
+
+//class data{
+	//constructor(){
+		//this.som?thing={
+			//"A": function(){
+				//consol?.log("h?llo");
+			//	},
+		//	"B": function(){
+		//		consol?.log("ok symbol");
+		//	}
+	//	}
+	//}
+//}
+
+//var r?f= n?w data()
+	//r?f.som?thing["A"]()
+	//r?f.som?thing["B"]()
+	
+	
+	
+//class data{
+	//constructor(){
+	//	this.som?thing={
+		//	"R?gno":"24",
+		//	"nam?":"shaf??q"
+		//}
+	//}
+	//adding(k?y1,valu?1){
+	//	this.som?thing[k?y1]=valu?1
+	//}
+//}
+//var r?f= n?w data()
+//	consol?.log(r?f.som?thing["R?gno"])
+//	consol?.log(r?f.som?thing.R?gno)
+//	consol?.log(r?f.som?thing.nam?)
+//	r?f.som?thing.R?gno=56
+//	r?f.adding("postcod?","sn66bp")
+//	r?f.adding("R?gno","25")
+//		consol?.log(r?f.som?thing)
+
+
+class nationwid?{
+	constructor(){
+	this.r?cords={}
+	}
+	adding(k?y,f1){
+		if(this.r?cords[k?y] == null){
+			this.r?cords[k?y] = []
+	}
+	this.r?cords[k?y].push(f1)
+	}
+}
+var r?f= n?w nationwid?()
+	r?f.adding("training", function(){
+		consol?.log("h?llo")
+	})
+	r?f.adding("training", function(){
+		consol?.log("cooki? br?ak")
+	})
+	r?f.r?cords.training.forEach(function(it?m){
+		it?m()
+	})
